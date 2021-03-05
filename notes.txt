@@ -39,3 +39,17 @@
 	    "eject": "react-scripts eject"
 	  },
 22. Push the updates to all branches to your gitlab repository
+23. On your gitlab repository, go to CI/CD > Jobs
+
+*Activity*
+
+1. On your local repo, under staging branch, change the Jumbotron content from "Hello, world!" to your Full name
+	ex. "John Doe Smith"
+2. Push the changes made on the staging branch to your gitlab repo.
+3. Merge the changes on staging to production branch.
+4. Push the changes made on production to your gitlab repo
+5. On your boodle account activity, paste 2 links of the Heroku app for staging and production.
+
+Sample: https://b101-staging.herokuapp.com/, https://b101-production.herokuapp.com/
+
+Deadline: 9PM
